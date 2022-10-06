@@ -51,7 +51,7 @@ console.log(arr6);
 document.write('<h2>Завдання 9:</h2>')
 document.write('<h2> Результат: [1, a, b, 2, 3, 4, c, 5, e].</h2>')
 let arr7 = [1, 2, 3, 4, 5];
-arr7.splice(1, 0,'a','b', 2, 3, 4,'c', 5,'e');
+arr7.splice(1, 4,'a','b', 2, 3, 4,'c', 5,'e');
 console.log(arr7);
 
 document.write('<h2>Завдання 10:</h2>')
